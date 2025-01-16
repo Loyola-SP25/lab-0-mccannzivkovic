@@ -2,3 +2,8 @@
 # CS151-Starter-Lab
 
 This lab will get us started with GitHub.
+
+**names:** McCannZivkovic
+1. Drawing
+2. Volleyball
+3. Skiing
